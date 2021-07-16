@@ -1,0 +1,11 @@
+C:\Users\ALIST\source\repos\Grading System\bin\Debug\netcoreapp2.1\Grading System.deps.json
+C:\Users\ALIST\source\repos\Grading System\bin\Debug\netcoreapp2.1\Grading System.runtimeconfig.json
+C:\Users\ALIST\source\repos\Grading System\bin\Debug\netcoreapp2.1\Grading System.runtimeconfig.dev.json
+C:\Users\ALIST\source\repos\Grading System\bin\Debug\netcoreapp2.1\Grading System.dll
+C:\Users\ALIST\source\repos\Grading System\bin\Debug\netcoreapp2.1\Grading System.pdb
+C:\Users\ALIST\source\repos\Grading System\obj\Debug\netcoreapp2.1\Grading System.csprojAssemblyReference.cache
+C:\Users\ALIST\source\repos\Grading System\obj\Debug\netcoreapp2.1\Grading System.csproj.CoreCompileInputs.cache
+C:\Users\ALIST\source\repos\Grading System\obj\Debug\netcoreapp2.1\Grading System.AssemblyInfoInputs.cache
+C:\Users\ALIST\source\repos\Grading System\obj\Debug\netcoreapp2.1\Grading System.AssemblyInfo.cs
+C:\Users\ALIST\source\repos\Grading System\obj\Debug\netcoreapp2.1\Grading System.dll
+C:\Users\ALIST\source\repos\Grading System\obj\Debug\netcoreapp2.1\Grading System.pdb
